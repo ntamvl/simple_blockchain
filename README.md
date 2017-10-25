@@ -1,2 +1,3 @@
-# simple_blockchain
-Simple BlockChain
+# Simple BlockChain
+Simple BlockChain implement by Go Lang
+
